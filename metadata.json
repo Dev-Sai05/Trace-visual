@@ -1,0 +1,6 @@
+{
+  "name": "COBOL Trace Visualizer",
+  "description": "An interactive, intelligent log analyzer for mainframe COBOL batch runs. Visualize call trees, debug database fetch failures (like SQLCODE errors/RC=12), and get code recommendations using server-side Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
